@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RyanRRothwell
-- 🌱 I’m currently learning Azure administration
+- 🌱 I’m currently learning how to automate AI solutions with MS Azure
 - 📫 How to reach me Ryan.Rothwell@live.ca
 
 <!---
